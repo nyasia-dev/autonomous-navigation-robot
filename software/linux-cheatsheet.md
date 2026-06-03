@@ -1,19 +1,25 @@
-pwd
+pwd   #show current folder
 
-ls
+ls    #list files
 
-cd
+cd    #change folder
 
-mkdir
+mkdir #create folder
 
-rm
+rm    #delete files
 
-cp
+cp    #copy files
 
-mv
+mv    #move/rename files
 
-cat
+cat   #display file contents
 
-nano
+nano  #
 
-sudo
+sudo  #
+
+touch #create file
+
+clear #clear terminal
+
+hsitory # show previous commands

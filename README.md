@@ -8,7 +8,7 @@
 
 This project is a ROS2-based autonomous navigation robot built using:
 
-
+\## Hardware
 
 \- Raspberry Pi
 
@@ -21,10 +21,16 @@ This project is a ROS2-based autonomous navigation robot built using:
 \- Ubuntu Linux
 
 
+\## Software
+
+\- Ubuntu 24.04
+\- ROS2 Jazzy
+\- Python
+
+
+
 
 \## Goals
-
-
 
 \- Autonomous navigation
 
@@ -38,15 +44,15 @@ This project is a ROS2-based autonomous navigation robot built using:
 
 \## Project Status
 
-
-
 Currently in development.
 
 
 
 \## Timeline
 
-
+Week 1: Environment setup
+Week 2: Hardware Assembly
+...
 
 Expected completion:
 
