@@ -2,7 +2,7 @@
 
 
 
-\## Day 1 - May 30, 2026
+\## Day 1 - May 30th, 2026
 
 
 
@@ -64,3 +64,21 @@
 
 \- Install Ubuntu on Raspberry Pi
 
+
+
+\## Day 2 - June 2nd, 2026
+
+\### Objectives
+\- Inventory hardware
+\- Verify components
+\- Install development tools
+
+\### Accomplishments
+\- Confirmed Raspberry Pi 4 (4GB)
+\- Confirmed LiDAR sensor
+\- Confirmed battery pack included
+\- Determined microSD card required
+
+\### Next Steps
+\- Purchase 64GB microSD card
+\- Install Ubuntu
