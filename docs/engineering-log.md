@@ -82,3 +82,10 @@
 \### Next Steps
 \- Purchase 64GB microSD card
 \- Install Ubuntu
+
+\## Day 3/4 - June 4th, 2026
+\- Installed Ubuntu
+\- Connected via SSH
+\- Connected VS Code to Raspberry Pi
+\- Verified Ubuntu 24.04 and ARM644
+\- Created robotics workspace
