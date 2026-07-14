@@ -83,13 +83,12 @@ autonomous-navigation-robot/
 ```
 
 
-\## Project Status
+### Project Status
 
 Currently in development.
 
 
-
-\## Timeline
+### Timeline
 
 Week 1: Environment setup
 Week 2: Hardware Assembly
