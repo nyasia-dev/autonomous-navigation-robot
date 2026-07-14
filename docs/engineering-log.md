@@ -89,3 +89,16 @@
 \- Connected VS Code to Raspberry Pi
 \- Verified Ubuntu 24.04 and ARM644
 \- Created robotics workspace
+
+\##Day 5 - July 12, 2026
+
+\### Completed
+\- Installed ROS 2 Jazzy
+\- Created ros2_ws workspace
+\- Created autonavrobot_startup package
+\- Built workspace successfully
+\- Uploaded package to GitHub
+
+\### Lessons Learned
+\- Fixed Ubuntu repository configuration by enabling noble-updates.
+\- Learned how ROS packages are structured.

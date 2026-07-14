@@ -1,0 +1,21 @@
+# ROS 2 generated folders
+build/
+install/
+log/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# VS Code settings
+.vscode/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.tmp
+*~
