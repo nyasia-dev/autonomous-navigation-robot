@@ -96,5 +96,5 @@ Week 2: Hardware Assembly
 
 Expected completion:
 
-July 26, 2026
+December 27, 2026
 
